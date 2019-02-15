@@ -1,0 +1,351 @@
+
+Showing Recent Messages
+
+Repair target Alamofire-Weather
+2018-11-11 21:14:26 +0000 IDEProvisioningMechanic: -[IDEProvisioningMechanic _executeNextRepairIfNeeded]_block_invoke_2: Executing repair: <IDEProvisioningRepair: 0x7f9773e0ddf0; repairable = <IDEProvisioningRepairInfo: 0x7f9773d99680; repairableName='Alamofire-Weather', team='<IDEProvisioningDisambiguatableBasicTeam: 0x7f9773b0df30; teamID='94Z6QS6A4W', teamName='Md Zahidul Islam Mazumder (Personal Team)', teamType='Personal Team', username='aronnegohine@gmail.com', isFreeProvisioningTeam='1'>', machineName='Zahid’s MacBook Pro', machineID='EE8E3B8A-D4AE-50AD-B135-1ABABD66908C', certificateTypes='(
+    "<DVTPortalCertificateType: 0x7f9773d7ebc0; identifier='Xcode.Portal.CertificateType.iOS.Development'>"
+)', devices='(
+)', profileType='Xcode.Portal.Profile.Type.iOS.Development', bundleID='com.zaddubd.Alamofire-Weather', appIDFeatures='<IDEAppIDFeatures 0x7f9773aaaa30: Features: {
+}, Containers: {
+}>', platform='<DVTPlatform:0x7f976ec3d5e0:'com.apple.platform.iphoneos':<DVTFilePath:0x7f976ec3d560:'/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform'>>', instigatingErrorsDescription='Xcode couldn't find any iOS App Development provisioning profiles matching 'com.zaddubd.Alamofire-Weather'.'>>
+2018-11-11 21:14:26 +0000 IDEProvisioningMechanic: -[IDEProvisioningMechanic addRepairForRepairable:]_block_invoke: Existing repair: <IDEProvisioningRepair: 0x7f9773e0ddf0; repairable = <IDEProvisioningRepairInfo: 0x7f9773d99680; repairableName='Alamofire-Weather', team='<IDEProvisioningDisambiguatableBasicTeam: 0x7f9773b0df30; teamID='94Z6QS6A4W', teamName='Md Zahidul Islam Mazumder (Personal Team)', teamType='Personal Team', username='aronnegohine@gmail.com', isFreeProvisioningTeam='1'>', machineName='Zahid’s MacBook Pro', machineID='EE8E3B8A-D4AE-50AD-B135-1ABABD66908C', certificateTypes='(
+    "<DVTPortalCertificateType: 0x7f9773d7ebc0; identifier='Xcode.Portal.CertificateType.iOS.Development'>"
+)', devices='(
+)', profileType='Xcode.Portal.Profile.Type.iOS.Development', bundleID='com.zaddubd.Alamofire-Weather', appIDFeatures='<IDEAppIDFeatures 0x7f9773aaaa30: Features: {
+}, Containers: {
+}>', platform='<DVTPlatform:0x7f976ec3d5e0:'com.apple.platform.iphoneos':<DVTFilePath:0x7f976ec3d560:'/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform'>>', instigatingErrorsDescription='Xcode couldn't find any iOS App Development provisioning profiles matching 'com.zaddubd.Alamofire-Weather'.'>>
+2018-11-11 21:14:26 +0000 IDEProvisioningMechanic: -[IDEProvisioningMechanic addRepairForRepairable:]_block_invoke: Existing repair: <IDEProvisioningRepair: 0x7f9773e0ddf0; repairable = <IDEProvisioningRepairInfo: 0x7f9773d99680; repairableName='Alamofire-Weather', team='<IDEProvisioningDisambiguatableBasicTeam: 0x7f9773b0df30; teamID='94Z6QS6A4W', teamName='Md Zahidul Islam Mazumder (Personal Team)', teamType='Personal Team', username='aronnegohine@gmail.com', isFreeProvisioningTeam='1'>', machineName='Zahid’s MacBook Pro', machineID='EE8E3B8A-D4AE-50AD-B135-1ABABD66908C', certificateTypes='(
+    "<DVTPortalCertificateType: 0x7f9773d7ebc0; identifier='Xcode.Portal.CertificateType.iOS.Development'>"
+)', devices='(
+)', profileType='Xcode.Portal.Profile.Type.iOS.Development', bundleID='com.zaddubd.Alamofire-Weather', appIDFeatures='<IDEAppIDFeatures 0x7f9773aaaa30: Features: {
+}, Containers: {
+}>', platform='<DVTPlatform:0x7f976ec3d5e0:'com.apple.platform.iphoneos':<DVTFilePath:0x7f976ec3d560:'/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform'>>', instigatingErrorsDescription='Xcode couldn't find any iOS App Development provisioning profiles matching 'com.zaddubd.Alamofire-Weather'.'>>
+2018-11-11 21:14:27 +0000 IDEProvisioningRepair(Alamofire-Weather): 2018-11-11 21:14:27 +0000 IDEProvisioningRepair(Alamofire-Weather): Using account aronnegohine@gmail.com for repair
+
+2018-11-11 21:14:27 +0000 IDEProvisioningRepair(Alamofire-Weather): 2018-11-11 21:14:27 +0000 IDEProvisioningRepair(Alamofire-Weather): Sending request 84BEFDE6-52F9-417E-8C78-C6ADBA011652 to <https://developerservices2.apple.com/services/QH65B2/ios/listAllDevelopmentCerts.action?clientId=XABBG36SBA> for account aronnegohine@gmail.com. Payload:
+{
+    Accept = "text/x-xml-plist";
+    "Accept-Encoding" = "gzip, deflate";
+    "Content-Length" = 464;
+    "Content-Type" = "text/x-xml-plist";
+    DSESSIONID = 4qr98u79injebic1oe1ch8gvu4bmb1osmojaqggalbbqn2mkaoo;
+    "User-Agent" = Xcode;
+    "X-Apple-App-Info" = "com.apple.gs.xcode.auth";
+    "X-Apple-GS-Token" = "AAAABLwIAAAAAFvUACYRDWdzLnhjb2RlLmF1dGi9AOUjCViatdwmPGJvv8DhgsLFcRng19k+bCoSO7Fjs6NAC+RwOmrXy6d3UhDQ+uRw7yLX8DHbnHVm2XdzV+pYS42ttjnwjP0vwXNujv1fo0P4ACmAtOfGFxu7AZ3JlHxJaIWeVz59pUcAfmoXf2tCLOSTM1i7";
+    "X-Apple-I-Client-Time" = "2018-11-11T21:14:27Z";
+    "X-Apple-I-Identity-Id" = "000307-08-49315dab-79a2-439d-82b7-b2c625fda6c3";
+    "X-Apple-I-Locale" = "en_BD";
+    "X-Apple-I-MD" = "AAAABQAAABBPEXBAUCv2EU/hJ7w/KffYAAAAAQ==";
+    "X-Apple-I-MD-LU" = 3148B1D61A95CE2E75DCE44B1B2698E07E2F1D5386F70D35086AA9CD64F2F626;
+    "X-Apple-I-MD-M" = "N75WdS8zsOZRs44ckqKq4HpZ0ViqI982bNuIwy/073frbzxYmU0PcD+JP0ykhJ6FYevmVOLT+1sYDGL6";
+    "X-Apple-I-MD-RINFO" = 17106176;
+    "X-Apple-I-TimeZone" = "GMT+6";
+    "X-MMe-Client-Info" = "<MacBookPro14,2> <Mac OS X;10.14;18A391> <com.apple.AuthKit/1 (com.apple.dt.Xcode/14320.25)>";
+    "X-Mme-Device-Id" = "EE8E3B8A-D4AE-50AD-B135-1ABABD66908C";
+    "X-Xcode-Version" = "10.0 (10A255)";
+}
+{
+    "DTDK_Platform" = ios;
+    clientId = XABBG36SBA;
+    protocolVersion = QH65B2;
+    requestId = "84BEFDE6-52F9-417E-8C78-C6ADBA011652";
+    teamId = 94Z6QS6A4W;
+}
+
+2018-11-11 21:14:27 +0000 IDEProvisioningRepair(Alamofire-Weather): 2018-11-11 21:14:27 +0000 IDEProvisioningRepair(Alamofire-Weather): Received response for 84BEFDE6-52F9-417E-8C78-C6ADBA011652 @ <https://developerservices2.apple.com/services/QH65B2/ios/listAllDevelopmentCerts.action?clientId=XABBG36SBA>. Code = 0
+
+2018-11-11 21:14:27 +0000 IDEProvisioningRepair(Alamofire-Weather): 2018-11-11 21:14:27 +0000 IDEProvisioningRepair(Alamofire-Weather): Response payload: {
+    certificates =     (
+                {
+            certContent = "<snip>";
+            certificateId = 3BP973K32S;
+            certificatePlatform = ios;
+            certificateType =             {
+                certificateTypeDisplayId = 5QPB9NHCEI;
+                daysOverlap = 364;
+                distributionMethod = app;
+                distributionType = development;
+                maxActive = 1;
+                name = "iOS Development";
+                ownerType = teamMember;
+                permissionType = development;
+                platform = ios;
+            };
+            expirationDate = "2019-10-27 05:56:18 +0000";
+            machineId = "EE8E3B8A-D4AE-50AD-B135-1ABABD66908C";
+            machineName = "Shuvo\U2019s MacBook Pro";
+            name = "iOS Development: Md Zahidul Islam Mazumder";
+            serialNumber = 1F72BB050BA55EBD;
+            status = Issued;
+            statusCode = 0;
+        }
+    );
+    creationTimestamp = "2018-11-11T21:14:27Z";
+    protocolVersion = QH65B2;
+    requestId = "84BEFDE6-52F9-417E-8C78-C6ADBA011652";
+    requestUrl = "https://developerservices2.apple.com:443/services/QH65B2/ios/listAllDevelopmentCerts.action?clientId=XABBG36SBA";
+    responseId = "ddeeabed-8b07-4b35-875f-dabd5d6908e7";
+    resultCode = 0;
+    userLocale = "en_US";
+}
+
+
+
+2018-11-11 21:14:27 +0000 IDEProvisioningRepair(Alamofire-Weather): 2018-11-11 21:14:27 +0000 IDEProvisioningRepair(Alamofire-Weather): -[IDEProvisioningRepairStepGenerator_Automatic _evaluateCertificatesWithSession:context:repairable:steps:userAction:error:]: 1 certificates on portal for type <DVTPortalCertificateType: 0x7f9773d7ebc0; identifier='Xcode.Portal.CertificateType.iOS.Development'>: (
+    "<DVTPortalCertificate: 0x7f9773adf780; name='iOS Development: Md Zahidul Islam Mazumder', serialNumber='1F72BB050BA55EBD', status='Issued', expirationDate='2019-10-27 05:56:18 +0000'>"
+)
+
+2018-11-11 21:14:27 +0000 IDEProvisioningRepair(Alamofire-Weather): 2018-11-11 21:14:27 +0000 IDEProvisioningRepair(Alamofire-Weather): -[IDEProvisioningRepairStepGenerator_Automatic _evaluateCertificatesWithSession:context:repairable:steps:userAction:error:]: 1 member-specific certificates on portal for type <DVTPortalCertificateType: 0x7f9773d7ebc0; identifier='Xcode.Portal.CertificateType.iOS.Development'>: (
+    "<DVTPortalCertificate: 0x7f9773adf780; name='iOS Development: Md Zahidul Islam Mazumder', serialNumber='1F72BB050BA55EBD', status='Issued', expirationDate='2019-10-27 05:56:18 +0000'>"
+)
+
+2018-11-11 21:14:27 +0000 IDEProvisioningRepair(Alamofire-Weather): 2018-11-11 21:14:27 +0000 IDEProvisioningRepair(Alamofire-Weather): -[IDEProvisioningRepairStepGenerator_Automatic _evaluateCertificatesWithSession:context:repairable:steps:userAction:error:]: has a local certificate
+
+2018-11-11 21:14:27 +0000 IDEProvisioningRepair(Alamofire-Weather): 2018-11-11 21:14:27 +0000 IDEProvisioningRepair(Alamofire-Weather): Using account aronnegohine@gmail.com for repair
+
+2018-11-11 21:14:28 +0000 IDEProvisioningMechanic: -[IDEProvisioningMechanic repairDidBegin:]: 0x7f97739525e0 <IDEProvisioningRepair: 0x7f9773e0ddf0; repairable = <IDEProvisioningRepairInfo: 0x7f9773d99680; repairableName='Alamofire-Weather', team='<IDEProvisioningDisambiguatableBasicTeam: 0x7f9773b0df30; teamID='94Z6QS6A4W', teamName='Md Zahidul Islam Mazumder (Personal Team)', teamType='Personal Team', username='aronnegohine@gmail.com', isFreeProvisioningTeam='1'>', machineName='Zahid’s MacBook Pro', machineID='EE8E3B8A-D4AE-50AD-B135-1ABABD66908C', certificateTypes='(
+    "<DVTPortalCertificateType: 0x7f9773d7ebc0; identifier='Xcode.Portal.CertificateType.iOS.Development'>"
+)', devices='(
+)', profileType='Xcode.Portal.Profile.Type.iOS.Development', bundleID='com.zaddubd.Alamofire-Weather', appIDFeatures='<IDEAppIDFeatures 0x7f9773aaaa30: Features: {
+}, Containers: {
+}>', platform='<DVTPlatform:0x7f976ec3d5e0:'com.apple.platform.iphoneos':<DVTFilePath:0x7f976ec3d560:'/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform'>>', instigatingErrorsDescription='Xcode couldn't find any iOS App Development provisioning profiles matching 'com.zaddubd.Alamofire-Weather'.'>>
+2018-11-11 21:14:28 +0000 IDEProvisioningMechanic: -[IDEProvisioningMechanic repair:isExecutingStep:]: 0x7f97739525e0 <IDEProvisioningRepair: 0x7f9773e0ddf0; repairable = <IDEProvisioningRepairInfo: 0x7f9773d99680; repairableName='Alamofire-Weather', team='<IDEProvisioningDisambiguatableBasicTeam: 0x7f9773b0df30; teamID='94Z6QS6A4W', teamName='Md Zahidul Islam Mazumder (Personal Team)', teamType='Personal Team', username='aronnegohine@gmail.com', isFreeProvisioningTeam='1'>', machineName='Zahid’s MacBook Pro', machineID='EE8E3B8A-D4AE-50AD-B135-1ABABD66908C', certificateTypes='(
+    "<DVTPortalCertificateType: 0x7f9773d7ebc0; identifier='Xcode.Portal.CertificateType.iOS.Development'>"
+)', devices='(
+)', profileType='Xcode.Portal.Profile.Type.iOS.Development', bundleID='com.zaddubd.Alamofire-Weather', appIDFeatures='<IDEAppIDFeatures 0x7f9773aaaa30: Features: {
+}, Containers: {
+}>', platform='<DVTPlatform:0x7f976ec3d5e0:'com.apple.platform.iphoneos':<DVTFilePath:0x7f976ec3d560:'/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform'>>', instigatingErrorsDescription='Xcode couldn't find any iOS App Development provisioning profiles matching 'com.zaddubd.Alamofire-Weather'.'>> step: Creating provisioning profile
+2018-11-11 21:14:28 +0000 IDEProvisioningRepair(Alamofire-Weather): 2018-11-11 21:14:28 +0000 IDEProvisioningRepair(Alamofire-Weather): Using account aronnegohine@gmail.com for repair
+
+2018-11-11 21:14:28 +0000 IDEProvisioningMechanic: -[IDEProvisioningMechanic repair:didFailWithError:]: 0x7f97739525e0 <IDEProvisioningRepair: 0x7f9773e0ddf0; repairable = <IDEProvisioningRepairInfo: 0x7f9773d99680; repairableName='Alamofire-Weather', team='<IDEProvisioningDisambiguatableBasicTeam: 0x7f9773b0df30; teamID='94Z6QS6A4W', teamName='Md Zahidul Islam Mazumder (Personal Team)', teamType='Personal Team', username='aronnegohine@gmail.com', isFreeProvisioningTeam='1'>', machineName='Zahid’s MacBook Pro', machineID='EE8E3B8A-D4AE-50AD-B135-1ABABD66908C', certificateTypes='(
+    "<DVTPortalCertificateType: 0x7f9773d7ebc0; identifier='Xcode.Portal.CertificateType.iOS.Development'>"
+)', devices='(
+)', profileType='Xcode.Portal.Profile.Type.iOS.Development', bundleID='com.zaddubd.Alamofire-Weather', appIDFeatures='<IDEAppIDFeatures 0x7f9773aaaa30: Features: {
+}, Containers: {
+}>', platform='<DVTPlatform:0x7f976ec3d5e0:'com.apple.platform.iphoneos':<DVTFilePath:0x7f976ec3d560:'/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform'>>', instigatingErrorsDescription='Xcode couldn't find any iOS App Development provisioning profiles matching 'com.zaddubd.Alamofire-Weather'.'>>, error = Error Domain=DVTPortalProfileErrorDomain Code=0 "Failed to create provisioning profile." UserInfo={NSUnderlyingError=0x7f9773ddf510 {Error Domain=DVTPortalServiceErrorDomain Code=8220 "Your team has no devices from which to generate a provisioning profile. Connect a device to use or manually add device IDs in Certificates, Identifiers & Profiles. https://developer.apple.com/account/" UserInfo={payload=<CFBasicHash 0x7f9773cd05e0 [0x7fff8f86c8e0]>{type = mutable dict, count = 10,
+entries =>
+	0 : <CFString 0x7f9773cd17d0 [0x7fff8f86c8e0]>{contents = "requestId"} = <CFString 0x7f9773cd21e0 [0x7fff8f86c8e0]>{contents = "1D20342F-8E59-4073-8725-28C71441D0B1"}
+	1 : responseId = <CFString 0x7f9773cd1dd0 [0x7fff8f86c8e0]>{contents = "db5a6cb7-fc4a-4dd8-9b0c-3966bd60a081"}
+	2 : <CFString 0x7fff8f8ccd08 [0x7fff8f86c8e0]>{contents = "protocolVersion"} = QH65B2
+	3 : <CFString 0x7f9773cd2320 [0x7fff8f86c8e0]>{contents = "requestUrl"} = <CFString 0x7f9773cd1cb0 [0x7fff8f86c8e0]>{contents = "https://developerservices2.apple.com/services/QH65B2/ios/downloadTeamProvisioningProfile.action"}
+	6 : <CFString 0x7f9773cd1670 [0x7fff8f86c8e0]>{contents = "userLocale"} = en_US
+	8 : resultCode = <CFNumber 0xfa63044a6ed31c9d [0x7fff8f86c8e0]>{value = +8220, type = kCFNumberSInt64Type}
+	9 : userString = <CFString 0x7f9773cd1690 [0x7fff8f86c8e0]>{contents = "Your team has no devices from which to generate a provisioning profile. Connect a device to use or manually add device IDs in Certificates, Identifiers & Profiles. https://developer.apple.com/account/"}
+	10 : <CFString 0x7f9773cd1770 [0x7fff8f86c8e0]>{contents = "resultString"} = <CFString 0x7f9773cd1690 [0x7fff8f86c8e0]>{contents = "Your team has no devices from which to generate a provisioning profile. Connect a device to use or manually add device IDs in Certificates, Identifiers & Profiles. https://developer.apple.com/account/"}
+	11 : httpCode = <CFNumber 0xfa63044a6ef3c89d [0x7fff8f86c8e0]>{value = +200, type = kCFNumberSInt64Type}
+	12 : <CFString 0x7f9773cd1590 [0x7fff8f86c8e0]>{contents = "creationTimestamp"} = <CFString 0x7f9773cd15f0 [0x7fff8f86c8e0]>{contents = "2018-11-11T21:14:28Z"}
+}
+, NSLocalizedDescription=Your team has no devices from which to generate a provisioning profile. Connect a device to use or manually add device IDs in Certificates, Identifiers & Profiles. https://developer.apple.com/account/}}, NSLocalizedDescription=Failed to create provisioning profile., NSLocalizedRecoverySuggestion=There are no devices registered in your account on the developer website. Plug in and select a device to have Xcode register it.}
+
+
+Diagnose problem
+Xcode couldn't find any iOS App Development provisioning profiles matching 'com.zaddubd.Alamofire-Weather'.
+
+Create iOS App Development provisioning profile for bundle identifier "com.zaddubd.Alamofire-Weather"
+2018-11-11 21:14:28 +0000 IDEProvisioningLedgerEntry: 2018-11-11 21:14:28 +0000 IDEProvisioningLedgerEntry: Sending request 4EEAB018-C153-4131-87A3-CAB55B32A13A to <https://developerservices2.apple.com/services/QH65B2/ios/listAppIds.action?clientId=XABBG36SBA> for account aronnegohine@gmail.com. Payload:
+{
+    Accept = "text/x-xml-plist";
+    "Accept-Encoding" = "gzip, deflate";
+    "Content-Length" = 464;
+    "Content-Type" = "text/x-xml-plist";
+    DSESSIONID = 72vtridmkd2rhkfkohp9rhalcbg92lvp6j9r3jdcp7kjghddfo6;
+    "User-Agent" = Xcode;
+    "X-Apple-App-Info" = "com.apple.gs.xcode.auth";
+    "X-Apple-GS-Token" = "AAAABLwIAAAAAFvUACYRDWdzLnhjb2RlLmF1dGi9AOUjCViatdwmPGJvv8DhgsLFcRng19k+bCoSO7Fjs6NAC+RwOmrXy6d3UhDQ+uRw7yLX8DHbnHVm2XdzV+pYS42ttjnwjP0vwXNujv1fo0P4ACmAtOfGFxu7AZ3JlHxJaIWeVz59pUcAfmoXf2tCLOSTM1i7";
+    "X-Apple-I-Client-Time" = "2018-11-11T21:14:28Z";
+    "X-Apple-I-Identity-Id" = "000307-08-49315dab-79a2-439d-82b7-b2c625fda6c3";
+    "X-Apple-I-Locale" = "en_BD";
+    "X-Apple-I-MD" = "AAAABQAAABBPEXBAUCv2EU/hJ7w/KffYAAAAAQ==";
+    "X-Apple-I-MD-LU" = 3148B1D61A95CE2E75DCE44B1B2698E07E2F1D5386F70D35086AA9CD64F2F626;
+    "X-Apple-I-MD-M" = "N75WdS8zsOZRs44ckqKq4HpZ0ViqI982bNuIwy/073frbzxYmU0PcD+JP0ykhJ6FYevmVOLT+1sYDGL6";
+    "X-Apple-I-MD-RINFO" = 17106176;
+    "X-Apple-I-TimeZone" = "GMT+6";
+    "X-MMe-Client-Info" = "<MacBookPro14,2> <Mac OS X;10.14;18A391> <com.apple.AuthKit/1 (com.apple.dt.Xcode/14320.25)>";
+    "X-Mme-Device-Id" = "EE8E3B8A-D4AE-50AD-B135-1ABABD66908C";
+    "X-Xcode-Version" = "10.0 (10A255)";
+}
+{
+    "DTDK_Platform" = ios;
+    clientId = XABBG36SBA;
+    protocolVersion = QH65B2;
+    requestId = "4EEAB018-C153-4131-87A3-CAB55B32A13A";
+    teamId = 94Z6QS6A4W;
+}
+
+2018-11-11 21:14:28 +0000 IDEProvisioningLedgerEntry: 2018-11-11 21:14:28 +0000 IDEProvisioningLedgerEntry: Received response for 4EEAB018-C153-4131-87A3-CAB55B32A13A @ <https://developerservices2.apple.com/services/QH65B2/ios/listAppIds.action?clientId=XABBG36SBA>. Code = 0
+
+2018-11-11 21:14:28 +0000 IDEProvisioningLedgerEntry: 2018-11-11 21:14:28 +0000 IDEProvisioningLedgerEntry: Response payload: {
+    appIds =     (
+                {
+            appIdId = BN833C4RBH;
+            appIdPlatform = ios;
+            associatedApplicationGroupsCount = 0;
+            associatedCloudContainersCount = 0;
+            associatedIdentifiersCount = 0;
+            enabledFeatures =             (
+                gameCenter
+            );
+            expirationDate = "2018-11-16 18:02:06 +0000";
+            features =             {
+                APG3427HIY = 0;
+                HK421J6T7P = 0;
+                IAD53UNK2F = 0;
+                LPLF93JG7M = 0;
+                SKC3T5S89Y = 0;
+                V66P55NK2I = 0;
+                WC421J6T7P = 0;
+                cloudKitVersion = 2;
+                dataProtection = "";
+                gameCenter = 1;
+                homeKit = 0;
+                iCloud = 0;
+                inAppPurchase = 0;
+                passbook = 0;
+                push = 0;
+            };
+            identifier = "com.zaddubd.MiniTask";
+            isDevPushEnabled = 0;
+            isDuplicate = 0;
+            isProdPushEnabled = 0;
+            isWildCard = 0;
+            name = "XC com zaddubd MiniTask";
+            prefix = 94Z6QS6A4W;
+        },
+                {
+            appIdId = VZR33GVH52;
+            appIdPlatform = ios;
+            associatedApplicationGroupsCount = 0;
+            associatedCloudContainersCount = 0;
+            associatedIdentifiersCount = 0;
+            enabledFeatures =             (
+                gameCenter
+            );
+            expirationDate = "2018-11-18 17:50:56 +0000";
+            features =             {
+                APG3427HIY = 0;
+                HK421J6T7P = 0;
+                IAD53UNK2F = 0;
+                LPLF93JG7M = 0;
+                SKC3T5S89Y = 0;
+                V66P55NK2I = 0;
+                WC421J6T7P = 0;
+                cloudKitVersion = 2;
+                dataProtection = "";
+                gameCenter = 1;
+                homeKit = 0;
+                iCloud = 0;
+                inAppPurchase = 0;
+                passbook = 0;
+                push = 0;
+            };
+            identifier = "com.zaddubd.TableViewPractice";
+            isDevPushEnabled = 0;
+            isDuplicate = 0;
+            isProdPushEnabled = 0;
+            isWildCard = 0;
+            name = "XC com zaddubd TableViewPractice";
+            prefix = 94Z6QS6A4W;
+        },
+                {
+            appIdId = 74HRQZR56M;
+            appIdPlatform = ios;
+            associatedApplicationGroupsCount = 0;
+            associatedCloudContainersCount = 0;
+            associatedIdentifiersCount = 0;
+            enabledFeatures =             (
+                gameCenter
+            );
+            expirationDate = "2018-11-18 19:09:16 +0000";
+            features =             {
+                APG3427HIY = 0;
+                HK421J6T7P = 0;
+                IAD53UNK2F = 0;
+                LPLF93JG7M = 0;
+                SKC3T5S89Y = 0;
+                V66P55NK2I = 0;
+                WC421J6T7P = 0;
+                cloudKitVersion = 2;
+                dataProtection = "";
+                gameCenter = 1;
+                homeKit = 0;
+                iCloud = 0;
+                inAppPurchase = 0;
+                passbook = 0;
+                push = 0;
+            };
+            identifier = "com.zaddubd.Alamofire-Weather";
+            isDevPushEnabled = 0;
+            isDuplicate = 0;
+            isProdPushEnabled = 0;
+            isWildCard = 0;
+            name = "XC com zaddubd Alamofire-Weather";
+            prefix = 94Z6QS6A4W;
+        }
+    );
+    availableQuantity = 7;
+    creationTimestamp = "2018-11-11T21:14:28Z";
+    maxQuantity = 10;
+    pageNumber = 0;
+    pageSize = 0;
+    protocolVersion = QH65B2;
+    requestId = "4EEAB018-C153-4131-87A3-CAB55B32A13A";
+    requestUrl = "https://developerservices2.apple.com:443/services/QH65B2/ios/listAppIds.action?clientId=XABBG36SBA";
+    responseId = "a6e33af5-a5fb-42b4-a6c9-f9c996d093fd";
+    resultCode = 0;
+    totalRecords = 3;
+    userLocale = "en_US";
+}
+
+
+
+2018-11-11 21:14:28 +0000 IDEProvisioningLedgerEntry: 2018-11-11 21:14:28 +0000 IDEProvisioningLedgerEntry: Sending request 1D20342F-8E59-4073-8725-28C71441D0B1 to <https://developerservices2.apple.com/services/QH65B2/ios/downloadTeamProvisioningProfile.action?clientId=XABBG36SBA> for account aronnegohine@gmail.com. Payload:
+{
+    Accept = "text/x-xml-plist";
+    "Accept-Encoding" = "gzip, deflate";
+    "Content-Length" = 513;
+    "Content-Type" = "text/x-xml-plist";
+    "User-Agent" = Xcode;
+    "X-Apple-App-Info" = "com.apple.gs.xcode.auth";
+    "X-Apple-GS-Token" = "AAAABLwIAAAAAFvUACYRDWdzLnhjb2RlLmF1dGi9AOUjCViatdwmPGJvv8DhgsLFcRng19k+bCoSO7Fjs6NAC+RwOmrXy6d3UhDQ+uRw7yLX8DHbnHVm2XdzV+pYS42ttjnwjP0vwXNujv1fo0P4ACmAtOfGFxu7AZ3JlHxJaIWeVz59pUcAfmoXf2tCLOSTM1i7";
+    "X-Apple-I-Client-Time" = "2018-11-11T21:14:28Z";
+    "X-Apple-I-Identity-Id" = "000307-08-49315dab-79a2-439d-82b7-b2c625fda6c3";
+    "X-Apple-I-Locale" = "en_BD";
+    "X-Apple-I-MD" = "AAAABQAAABBPEXBAUCv2EU/hJ7w/KffYAAAAAQ==";
+    "X-Apple-I-MD-LU" = 3148B1D61A95CE2E75DCE44B1B2698E07E2F1D5386F70D35086AA9CD64F2F626;
+    "X-Apple-I-MD-M" = "N75WdS8zsOZRs44ckqKq4HpZ0ViqI982bNuIwy/073frbzxYmU0PcD+JP0ykhJ6FYevmVOLT+1sYDGL6";
+    "X-Apple-I-MD-RINFO" = 17106176;
+    "X-Apple-I-TimeZone" = "GMT+6";
+    "X-MMe-Client-Info" = "<MacBookPro14,2> <Mac OS X;10.14;18A391> <com.apple.AuthKit/1 (com.apple.dt.Xcode/14320.25)>";
+    "X-Mme-Device-Id" = "EE8E3B8A-D4AE-50AD-B135-1ABABD66908C";
+    "X-Xcode-Version" = "10.0 (10A255)";
+}
+{
+    "DTDK_Platform" = ios;
+    appIdId = 74HRQZR56M;
+    clientId = XABBG36SBA;
+    protocolVersion = QH65B2;
+    requestId = "1D20342F-8E59-4073-8725-28C71441D0B1";
+    teamId = 94Z6QS6A4W;
+}
+
+2018-11-11 21:14:28 +0000 IDEProvisioningLedgerEntry: 2018-11-11 21:14:28 +0000 IDEProvisioningLedgerEntry: Received response for 1D20342F-8E59-4073-8725-28C71441D0B1 @ <https://developerservices2.apple.com/services/QH65B2/ios/downloadTeamProvisioningProfile.action?clientId=XABBG36SBA>. Code = 8220
+
+2018-11-11 21:14:28 +0000 IDEProvisioningLedgerEntry: 2018-11-11 21:14:28 +0000 IDEProvisioningLedgerEntry: Response payload: {
+    creationTimestamp = "2018-11-11T21:14:28Z";
+    httpCode = 200;
+    protocolVersion = QH65B2;
+    requestId = "1D20342F-8E59-4073-8725-28C71441D0B1";
+    requestUrl = "https://developerservices2.apple.com/services/QH65B2/ios/downloadTeamProvisioningProfile.action";
+    responseId = "db5a6cb7-fc4a-4dd8-9b0c-3966bd60a081";
+    resultCode = 8220;
+    resultString = "Your team has no devices from which to generate a provisioning profile. Connect a device to use or manually add device IDs in Certificates, Identifiers & Profiles. https://developer.apple.com/account/";
+    userLocale = "en_US";
+    userString = "Your team has no devices from which to generate a provisioning profile. Connect a device to use or manually add device IDs in Certificates, Identifiers & Profiles. https://developer.apple.com/account/";
+}
+
+
+
+
+
+
+Signing update finished    12/11/18 3:14 AM    2.3 seconds
